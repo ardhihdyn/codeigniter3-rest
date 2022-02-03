@@ -7,6 +7,7 @@ class Test extends RestController {
 
 	public function index_get()
 	{
+		Logger::info("Someone get data");
 		$this->response([
 	        	"status" 	=> "Work",
 	        	"message"	=> "Get Work"

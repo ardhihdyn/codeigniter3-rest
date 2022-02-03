@@ -37,3 +37,6 @@ CodeIgniter3
 
 CI RestServer
 - `Github <https://github.com/chriskacerguis/codeigniter-restserver>`_
+
+Logger
+- `Github <https://github.com/advename/Simple-PHP-Logger>`_
